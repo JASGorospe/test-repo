@@ -1,0 +1,27 @@
+{
+    "id": "6A13B558",
+    "path": "~/Documents/tmp/test_script.R",
+    "project_path": "test_script.R",
+    "type": "r_source",
+    "hash": "3112278687",
+    "contents": "",
+    "dirty": false,
+    "created": 1698773610205.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,32",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1698773647,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1698773647374,
+    "read_only": false,
+    "read_only_alternatives": []
+}
